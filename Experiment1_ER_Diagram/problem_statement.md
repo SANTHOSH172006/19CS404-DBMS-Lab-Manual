@@ -1,7 +1,7 @@
 
 ---
 
-# Scenario C: Restaurant Table Reservation & Ordering
+# Scenario : Restaurant Table Reservation & Ordering
 
 **Business Context:**  
 A popular restaurant wants to manage reservations, orders, and billing.
@@ -16,7 +16,8 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-![ER Diagram](er_diagram_restaurant.png)
+<img width="4002" height="1581" alt="erdplus (2)" src="https://github.com/user-attachments/assets/753fabf6-9278-4782-b29e-5f9730dc001d" />
+
 
 ### Entities and Attributes
 
